@@ -1,3 +1,11 @@
+> [!NOTE]
+> **This repo has been consolidated into the SIGNA monorepo.** All skills now live at [codexvritra/signa](https://github.com/codexvritra/signa) under `aeon-skills/`. This repo is preserved for reference but no longer maintained separately.
+>
+> New install path:
+> ```bash
+> ./install-skill-pack codexvritra/signa --path aeon-skills
+> ```
+
 # signa-skills
 
 The full **SIGNA** skill suite for Aeon agents. Ten skills, one install, five categories.
